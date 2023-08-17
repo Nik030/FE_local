@@ -12,16 +12,16 @@
 // console.log("array", array);
 
 // 1.2
-// const array = new Array(1, 2, "a", null, undefined, true, new Array(4, 5));
-// console.log("array", array);
-// Как взаимодействовать с массивами
-// const vazgensInfo = [
-//   "Vazgen",
-//   22,
-//   true,
-//   "Yerevan",
-//   ["Mama", "Papa", "borthers"],
-// ];
+const array = new Array(1, 2, "a", null, undefined, true, new Array(4, 5));
+console.log("array", array);
+//Как взаимодействовать с массивами
+const vazgensInfo = [
+  "Vazgen",
+  22,
+  true,
+  "Yerevan",
+  ["Mama", "Papa", "borthers"],
+];
 
 // Как отаброжается в в консоли
 // 0:  "Vazgen"
