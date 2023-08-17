@@ -149,11 +149,11 @@
 // Пример как можно использоват ? в реальном примере
 // const randomNumberGenerator = () => Math.floor(Math.random() * 25);
 
-// const resultOfFunction = randomNumberGenerator();
-// let isWin =
-//   resultOfFunction === 21
-//     ? "Вы выграло машину"
-//     : `Вы проиграли посколькы ваша цивра была ${resultOfFunction} попобуййте еще раз`;
+const resultOfFunction = randomNumberGenerator();
+let isWin =
+  resultOfFunction === 21
+    ? "Вы выграли машину"
+    : `Вы проиграли посколькы ваша цивра была ${resultOfFunction} попобуййте еще раз`;
 
 // const p = document.createElement("p");
 // p.textContent = isWin;
