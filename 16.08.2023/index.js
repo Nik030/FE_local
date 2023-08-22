@@ -36,8 +36,8 @@
 // console.log(isNaN(2)); // false
 
 // 5 Math.random - при каждом  вызвое данного метда нам возращает рандомное значение в интервале 0 1
-console.log(Math.random());
-console.log(Math.random() * 10);
+// console.log(Math.random());
+// console.log(Math.random() * 10);
 
 
 // 1. Написать функцию которая генерирует рандомное количество div-ов (0-20)
